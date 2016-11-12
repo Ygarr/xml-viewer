@@ -1,0 +1,6 @@
+{
+  "name": "XML Viewer",
+  "tagline": "XML and JSON files viewer",
+  "body": "#XML Viewer\r\n\r\n##Overview\r\nA program to open XML and JSON files with predefined structure with possibility to\r\nfilter information and transform to HTML and open via browser.\r\n\r\n##Main window\r\n![main_window](http://i.imgur.com/ZYSe1ab.png)\r\n\r\nMain window contains a table with predefined columns with control buttons and filtration\r\ntext fields. \r\n\r\n##Filter\r\n![filter](http://i.imgur.com/93ovo6a.png)\r\n\r\nTable entries can be filtered by typing text in corresponding text fields.\r\n\r\n##HTML Transformation\r\n![transformation](http://i.imgur.com/8toTcg3.png)\r\n\r\nThe content can be transformed via XSTL to HTML and opened via browser.\r\n\r\n######Copyright © 2016 by Vitaliy Kononenko, K-24\r\n\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
